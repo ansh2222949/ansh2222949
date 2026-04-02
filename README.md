@@ -9,7 +9,7 @@
 <img src="./assets/neon-command-deck.svg" width="100%" alt="Animated neon command deck panel" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&repeat=true&width=780&lines=Building+intelligence+from+scratch;Whisper+%E2%86%92+Router+%E2%86%92+LLM+%E2%86%92+GPT-SoVITS;System+%3E+Model.+Always.;Local-first+is+not+a+feature.+It%27s+the+whole+strategy.;Cute+surface.+Serious+systems." alt="Typing intro banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&repeat=true&width=800&lines=Building+intelligence+from+scratch;Whisper+%E2%86%92+Router+%E2%86%92+LLM+%E2%86%92+GPT-SoVITS;System+%3E+Model.+Always.;Cute+surface.+Serious+systems.;Kitsune+guarded.+Neon+coded." alt="Typing intro banner" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="46%" valign="top">
 
 <h2><code>&gt; whoami</code></h2>
 
@@ -48,7 +48,15 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 </ul>
 
 </td>
-<td width="48%" valign="top" align="center">
+<td width="27%" valign="top" align="center">
+
+<img src="./assets/kitsune-guardian.png" width="92%" alt="Cute kitsune guardian mascot" />
+
+<code>kitsune.guard</code><br/>
+<sub>Katana-ready spirit for stealth mode.</sub>
+
+</td>
+<td width="27%" valign="top" align="center">
 
 <img src="./assets/neon-dragon-cat.svg" width="100%" alt="Animated neon dragon cat mascot" />
 
@@ -61,21 +69,21 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 
 ---
 
-## `> command deck`
+## `> command deck status`
 
 <table>
 <tr>
 <td width="33%" valign="top">
   <h3>Core Belief</h3>
-  <p>System design comes first. The model is a component, not the product.</p>
+  <p>System design comes first. The model is a component, not the whole product.</p>
 </td>
 <td width="33%" valign="top">
   <h3>Build Style</h3>
   <p>Offline-first, latency-aware, tool-enabled, and intentionally engineered.</p>
 </td>
 <td width="33%" valign="top">
-  <h3>Visual Taste</h3>
-  <p>Cyberpunk glow, motion, glass, and playful interfaces with actual purpose.</p>
+  <h3>Energy</h3>
+  <p>Cyberpunk glow, anime attitude, playful mascots, and interfaces with real purpose.</p>
 </td>
 </tr>
 </table>
@@ -123,7 +131,7 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 | Input Layer        | Text, voice, gesture                            |
 | Decision Layer     | Intent scoring, semantic routing, tool gating   |
 | Output Layer       | Actions, answers, TTS, visual feedback          |
-| Philosophy         | Keep the stack local, sharp, and explainable    |
+| Familiar Layer     | Kitsune guard + dragon cat keep the vibe alive  |
 +-------------------+--------------------------------------------------+
 ```
 
