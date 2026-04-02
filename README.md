@@ -37,31 +37,23 @@
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## <img src="./assets/icon-brain.svg" width="20" /> &nbsp; About
+
+<div align="center">
+<img src="./assets/anime1.gif" alt="" width="400" />
+</div>
+
+<br/>
 
 ```js
 const ansh = {
     name:       "𝕬𝖓𝖘𝖍 ♤",
     title:      "AI Systems Architect",
     location:   "localhost:5000",
-    focus:      ["AI Routing", "Voice AI",
-                 "Computer Vision", "Local ML"],
+    focus:      ["AI Routing", "Voice AI", "Computer Vision", "Local ML"],
     philosophy: "System > Model. Always."
 };
 ```
-
-</td>
-<td width="40%" align="center" valign="top">
-
-<img src="./assets/anime1.gif" alt="" width="260" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -197,12 +189,30 @@ const ansh = {
 
 ## <img src="./assets/icon-gear.svg" width="20" /> &nbsp; NeonAI Flow
 
-<img src="./assets/flow-diagram.svg" width="500" />
+</div>
 
-<br/>
+```
+    ┌─────────┐      ┌──────┐
+    │  Input   │─────▶│ Route │
+    └─────────┘      └──┬───┘
+                        │
+         ┌──────────────┼──────────────┬──────────────┐
+         ▼              ▼              ▼              ▼
+    ┌─────────┐   ┌──────────┐   ┌──────────┐   ┌─────────┐
+    │⚡ Tool   │   │🌐 Search │   │🧠 LLM    │   │🔊 Cmd   │
+    │ Instant  │   │ +LLM     │   │Waterfall │   │ Execute │
+    └─────────┘   └──────────┘   └────┬─────┘   └─────────┘
+                                      │
+                                 ┌────▼─────┐
+                                 │Confidence│
+                                 │  Gate    │
+                                 └──┬───┬──┘
+                                 ✅ │   │ ❌
+                                 Out   Retry
+```
 
-<img src="./assets/pochita.png" width="100" />
-
+<div align="center">
+<img src="./assets/pochita.png" width="80" />
 </div>
 
 ---
