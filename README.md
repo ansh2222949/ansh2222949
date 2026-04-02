@@ -1,13 +1,15 @@
 ﻿<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:090f1a,35:1a0610,70:101826,100:00ffc8&text=Ace%20%E2%99%A4&fontSize=76&fontColor=f8fafc&animation=fadeIn&fontAlignY=37&desc=Local-First%20AI%20Systems%20%7C%20Voice%20Pipelines%20%7C%20Computer%20Vision&descSize=18&descColor=ff7aa2&descAlignY=58&stroke=00ffc8&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:050b12,28:140710,62:101826,100:00ffc8&text=Ace%20%E2%99%A4&fontSize=78&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Local-First%20AI%20Systems%20%7C%20Voice%20Pipelines%20%7C%20Computer%20Vision&descSize=18&descColor=ff86a9&descAlignY=58&stroke=00ffc8&strokeWidth=1" />
 
-<img src="./ace.png" width="132" alt="Ace avatar" />
+<img src="./ace.png" width="138" alt="Ace avatar" />
 
 ### `AI Systems Architect` • `Offline-first Builder` • `Neon tinkerer`
 
+<img src="./assets/neon-command-deck.svg" width="100%" alt="Animated neon command deck panel" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&repeat=true&width=760&lines=Building+intelligence+from+scratch;Whisper+%E2%86%92+Router+%E2%86%92+LLM+%E2%86%92+GPT-SoVITS;System+%3E+Model.+Always.;Local-first+is+not+a+feature.+It%27s+the+whole+strategy." alt="Typing intro banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&repeat=true&width=780&lines=Building+intelligence+from+scratch;Whisper+%E2%86%92+Router+%E2%86%92+LLM+%E2%86%92+GPT-SoVITS;System+%3E+Model.+Always.;Local-first+is+not+a+feature.+It%27s+the+whole+strategy.;Cute+surface.+Serious+systems." alt="Typing intro banner" />
 </a>
 
 <br/>
@@ -25,7 +27,7 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="52%" valign="top">
 
 <h2><code>&gt; whoami</code></h2>
 
@@ -46,13 +48,34 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 </ul>
 
 </td>
-<td width="44%" valign="top" align="center">
+<td width="48%" valign="top" align="center">
 
 <img src="./assets/neon-dragon-cat.svg" width="100%" alt="Animated neon dragon cat mascot" />
 
 <code>dragon.cat.exe</code><br/>
 <sub>Guardian mode enabled for late-night builds.</sub>
 
+</td>
+</tr>
+</table>
+
+---
+
+## `> command deck`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+  <h3>Core Belief</h3>
+  <p>System design comes first. The model is a component, not the product.</p>
+</td>
+<td width="33%" valign="top">
+  <h3>Build Style</h3>
+  <p>Offline-first, latency-aware, tool-enabled, and intentionally engineered.</p>
+</td>
+<td width="33%" valign="top">
+  <h3>Visual Taste</h3>
+  <p>Cyberpunk glow, motion, glass, and playful interfaces with actual purpose.</p>
 </td>
 </tr>
 </table>
@@ -90,6 +113,19 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 <img src="https://img.shields.io/badge/NVIDIA_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 </div>
+
+---
+
+## 🧪 System Snapshot
+
+```text
++-------------------+--------------------------------------------------+
+| Input Layer        | Text, voice, gesture                            |
+| Decision Layer     | Intent scoring, semantic routing, tool gating   |
+| Output Layer       | Actions, answers, TTS, visual feedback          |
+| Philosophy         | Keep the stack local, sharp, and explainable    |
++-------------------+--------------------------------------------------+
+```
 
 ---
 
@@ -167,6 +203,22 @@ flowchart LR
 
 ---
 
+## 🎛️ Build Zones
+
+<div align="center">
+
+| Zone | What Happens Here |
+|:--|:--|
+| `AI Systems` | Routing-first products, not thin chatbot wrappers |
+| `Voice Pipelines` | Whisper STT -> LLM -> GPT-SoVITS TTS |
+| `Computer Vision` | Gesture control, recognition, and real-time interaction |
+| `Local-First Tools` | Fast, private, machine-native workflows |
+| `UI Direction` | Glass, glow, motion, and cyberpunk personality |
+
+</div>
+
+---
+
 ## 📊 GitHub Pulse
 
 <div align="center">
@@ -182,17 +234,15 @@ flowchart LR
 
 ---
 
-## ⚡ What I Build
-
-| Domain | Approach |
-|:--|:--|
-| `AI Systems` | Routing-first products, not thin chatbot wrappers |
-| `Voice Pipelines` | Whisper STT -> LLM -> GPT-SoVITS TTS |
-| `Computer Vision` | Gesture control, recognition, and real-time interaction |
-| `Local-First Tools` | Fast, private, machine-native workflows |
-| `UI Direction` | Glass, glow, motion, and cyberpunk personality |
+## ⚡ Philosophy
 
 > "The system decides the path. The LLM only generates when needed."
+
+<div align="center">
+
+<sub>Designed like a character page. Built like an engineering workspace.</sub>
+
+</div>
 
 <div align="center">
 
