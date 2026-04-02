@@ -9,7 +9,7 @@
 
 <br/>
 
-# 𝕬𝖈𝖊 ♤
+# 𝕬𝖓𝖘𝖍 ♤
 
 <a href="https://github.com/ansh2222949">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=480&height=40&lines=BANKAI+%E2%80%A2+Getsuga+Tensh%C5%8D+%F0%9F%97%A1%EF%B8%8F" />
@@ -118,57 +118,9 @@
 ## <img src="./assets/icon-scroll.svg" width="20" /> &nbsp; Creations
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/ansh2222949/NeonVoice-Core">⚡ NeonAI</a></h3>
-<p align="center"><sub>Local AI with semantic routing, 5 modes, voice control & confidence gating. Zero cloud.</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Whisper-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/SoVITS-161b22?style=flat-square&logoColor=e8375a" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/ansh2222949/ai-mouse">🖱️ AI Mouse</a></h3>
-<p align="center"><sub>Hand gesture mouse control with real-time computer vision + hybrid ML.</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/MediaPipe-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logoColor=e8375a" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/ansh2222949/NeonPlayer">🎵 NeonPlayer</a></h3>
-<p align="center"><sub>Offline desktop media controller built from scratch. No internet, pure local power.</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyWebView-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Offline-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logoColor=e8375a" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/ansh2222949/monument_ai">🏛️ Monument AI</a></h3>
-<p align="center"><sub>Multi-modal CNN for monument recognition. Deep learning built from scratch.</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/CNN-161b22?style=flat-square&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Keras-161b22?style=flat-square&logoColor=e8375a" />
-</p>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/ansh2222949?tab=repositories">
+<img src="./assets/projects-card.svg" width="600" />
+</a>
 </div>
 
 ---
