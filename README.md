@@ -75,23 +75,26 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 <tr>
 <td width="33%" valign="top" align="center">
 
-<img src="./assets/kitsune-guardian.png" width="92%" alt="Standing kitsune guardian mascot" />
+<img src="./assets/kitsune-guardian.png" width="88%" alt="Standing kitsune guardian mascot" />
 
-### `kitsune.guard`\n<sub>Stealth-mode protector with katana energy.</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<img src="./assets/kitsune-idle.png" width="92%" alt="Sitting kitsune idle mascot" />
-
-### `kitsune.idle`\n<sub>Calm mode. Watching the system hum in peace.</sub>
+<h3><code>kitsune.guard</code></h3>
+<sub>Stealth-mode protector with katana energy.</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="./assets/neon-dragon-cat.svg" width="100%" alt="Animated neon dragon cat mascot" />
+<img src="./assets/kitsune-idle.png" width="88%" alt="Sitting kitsune idle mascot" />
 
-### `dragon.cat.exe`\n<sub>Late-night build guardian for neon sessions.</sub>
+<h3><code>kitsune.idle</code></h3>
+<sub>Calm mode. Watching the system hum in peace.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="./assets/neon-dragon-cat.svg" width="92%" alt="Animated neon dragon cat mascot" />
+
+<h3><code>dragon.cat.exe</code></h3>
+<sub>Late-night build guardian for neon sessions.</sub>
 
 </td>
 </tr>
@@ -299,4 +302,5 @@ flowchart LR
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d7e,40:0d1117,100:00ffc8&height=120&section=footer" />
+
 
