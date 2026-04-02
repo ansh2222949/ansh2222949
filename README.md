@@ -189,30 +189,12 @@ const ansh = {
 
 ## <img src="./assets/icon-gear.svg" width="20" /> &nbsp; NeonAI Flow
 
-</div>
+<img src="./assets/flow-diagram.svg" width="600" />
 
-```
-    ┌─────────┐      ┌──────┐
-    │  Input   │─────▶│ Route │
-    └─────────┘      └──┬───┘
-                        │
-         ┌──────────────┼──────────────┬──────────────┐
-         ▼              ▼              ▼              ▼
-    ┌─────────┐   ┌──────────┐   ┌──────────┐   ┌─────────┐
-    │⚡ Tool   │   │🌐 Search │   │🧠 LLM    │   │🔊 Cmd   │
-    │ Instant  │   │ +LLM     │   │Waterfall │   │ Execute │
-    └─────────┘   └──────────┘   └────┬─────┘   └─────────┘
-                                      │
-                                 ┌────▼─────┐
-                                 │Confidence│
-                                 │  Gate    │
-                                 └──┬───┬──┘
-                                 ✅ │   │ ❌
-                                 Out   Retry
-```
+<br/>
 
-<div align="center">
-<img src="./assets/pochita.png" width="80" />
+<img src="./assets/pochita.png" width="70" />
+
 </div>
 
 ---
