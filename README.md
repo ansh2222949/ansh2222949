@@ -39,7 +39,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ## <img src="./assets/icon-brain.svg" width="20" /> &nbsp; About
 
@@ -55,9 +55,9 @@ const ace = {
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="top">
 
-<img src="./assets/anime1.gif" width="280" />
+<img src="./assets/anime1.gif" width="260" />
 
 </td>
 </tr>
@@ -67,26 +67,11 @@ const ace = {
 
 <!-- ═══════════════════ RPG STATS ═══════════════════ -->
 
-## <img src="./assets/icon-stats.svg" width="20" /> &nbsp; Character Stats
-
 <div align="center">
 
-```
- ┌──────────────────────────────────────────┐
- │           𝕬𝖈𝖊 ♤  ·  LV 25               │
- │──────────────────────────────────────────│
- │                                          │
- │  ⚔️  AI Systems      ████████████░░  85  │
- │  🗡️  Voice Pipeline   ███████████░░░  80  │
- │  👁️  Computer Vision  ██████████░░░░  75  │
- │  🔧  Local-First ML   █████████████░  90  │
- │  🎨  UI / Frontend    ████████░░░░░░  60  │
- │  ⚡  System Design    ████████████░░  85  │
- │                                          │
- │  CLASS:  Architect    ELEMENT:  🔥 Fire  │
- │  TITLE:  卍解 Bankai  WEAPON:  🗡️ Code   │
- └──────────────────────────────────────────┘
-```
+## <img src="./assets/icon-stats.svg" width="20" /> &nbsp; Character Stats
+
+<img src="./assets/stats-card.svg" width="500" />
 
 </div>
 
@@ -96,7 +81,7 @@ const ace = {
 
 <table>
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
 ## <img src="./assets/icon-katana.svg" width="20" /> &nbsp; Arsenal
 
@@ -129,7 +114,7 @@ const ace = {
 </p>
 
 </td>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="center">
 
 <img src="./assets/kitsune-warrior.png" width="180" />
 
@@ -153,52 +138,51 @@ const ace = {
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [⚡ NeonAI](https://github.com/ansh2222949/NeonVoice-Core)
-> Local AI with semantic routing, 5 modes, voice control & confidence gating. Zero cloud.
-
-<sub>
+<h3 align="center"><a href="https://github.com/ansh2222949/NeonVoice-Core">⚡ NeonAI</a></h3>
+<p align="center"><sub>Local AI with semantic routing, 5 modes, voice control & confidence gating. Zero cloud.</sub></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Whisper-161b22?style=flat-square&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/SoVITS-161b22?style=flat-square&logoColor=e8375a" />
-</sub>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [🖱️ AI Mouse](https://github.com/ansh2222949/ai-mouse)
-> Hand gesture mouse control with real-time computer vision + hybrid ML.
-
-<sub>
+<h3 align="center"><a href="https://github.com/ansh2222949/ai-mouse">🖱️ AI Mouse</a></h3>
+<p align="center"><sub>Hand gesture mouse control with real-time computer vision + hybrid ML.</sub></p>
+<p align="center">
   <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/MediaPipe-161b22?style=flat-square&logoColor=e8375a" />
-</sub>
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logoColor=e8375a" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [🎵 NeonPlayer](https://github.com/ansh2222949/NeonPlayer)
-> Offline desktop media controller. No internet, pure local.
-
-<sub>
+<h3 align="center"><a href="https://github.com/ansh2222949/NeonPlayer">🎵 NeonPlayer</a></h3>
+<p align="center"><sub>Offline desktop media controller built from scratch. No internet, pure local power.</sub></p>
+<p align="center">
   <img src="https://img.shields.io/badge/PyWebView-161b22?style=flat-square&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/Offline-161b22?style=flat-square&logoColor=e8375a" />
-</sub>
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logoColor=e8375a" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [🏛️ Monument AI](https://github.com/ansh2222949/monument_ai)
-> CNN for monument recognition. Deep learning from scratch.
-
-<sub>
+<h3 align="center"><a href="https://github.com/ansh2222949/monument_ai">🏛️ Monument AI</a></h3>
+<p align="center"><sub>Multi-modal CNN for monument recognition. Deep learning built from scratch.</sub></p>
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/CNN-161b22?style=flat-square&logoColor=e8375a" />
-</sub>
+  <img src="https://img.shields.io/badge/Keras-161b22?style=flat-square&logoColor=e8375a" />
+</p>
 
 </td>
 </tr>
@@ -209,37 +193,42 @@ const ace = {
 
 <!-- ═══════════════════ ARCHITECTURE ═══════════════════ -->
 
-<table>
-<tr>
-<td width="70%">
+<div align="center">
 
 ## <img src="./assets/icon-gear.svg" width="20" /> &nbsp; NeonAI Flow
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#e8375a', 'lineColor': '#e8375a', 'secondaryColor': '#0d1117', 'tertiaryColor': '#0d1117'}}}%%
-flowchart LR
-    A["Input"] --> B{"Route"}
-    B -->|Tool| C["⚡ Instant"]
-    B -->|Web| D["🌐 Search"]
-    B -->|LLM| E["🧠 Waterfall"]
-    B -->|Cmd| F["🔊 Execute"]
-    E --> G{"Score?"}
-    G -->|Pass| H["✅ Out"]
-    G -->|Fail| I["🔄 Retry"]
+<table>
+<tr>
+<td align="center" valign="middle">
+
+```
+  Input ─→ Route ─┬─→ Tool Call ──→ ⚡ Instant Response
+                   │
+                   ├─→ Web Search ─→ 🌐 Search + LLM
+                   │
+                   ├─→ LLM Mode ──→ 🧠 Waterfall Engine
+                   │                       │
+                   │                  Confidence Gate
+                   │                   ├─ ✅ Pass → Out
+                   │                   └─ ❌ Fail → Retry
+                   │
+                   └─→ System CMD ─→ 🔊 OS Execute
 ```
 
 </td>
-<td width="30%" align="center">
+<td width="200" align="center" valign="middle">
 
-<img src="./assets/pochita.png" width="140" />
+<img src="./assets/pochita.png" width="150" />
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 <div align="center">
 
@@ -270,16 +259,13 @@ flowchart LR
 
 <img src="./assets/denji.png" width="120" />
 
-<br/>
-
-```
-  "The system decides the path.
-   The LLM only generates when needed."
-```
-
-<sub>— NeonAI Philosophy</sub>
-
 <br/><br/>
+
+> *"The system decides the path. The LLM only generates when needed."*
+> 
+> — NeonAI Philosophy
+
+<br/>
 
 <a href="https://github.com/ansh2222949">
   <img src="https://img.shields.io/badge/follow-e8375a?style=for-the-badge&logo=github&logoColor=0d1117" />
