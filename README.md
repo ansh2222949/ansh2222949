@@ -11,12 +11,12 @@
 
 # 𝕬𝖈𝖊 ♤
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=480&height=40&lines=卍解+•+BANKAI:+Getsuga+Tenshō+🗡️" />
+<a href="https://github.com/ansh2222949">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=480&height=40&lines=BANKAI+%E2%80%A2+Getsuga+Tensh%C5%8D+%F0%9F%97%A1%EF%B8%8F" />
 </a>
 <br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&repeat=true&width=380&height=25&lines=AI+Architect+•+Voice+Engineer+•+Vision+Dev" />
+<a href="https://github.com/ansh2222949">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&repeat=true&width=420&height=25&lines=AI+Architect+%E2%80%A2+Voice+Engineer+%E2%80%A2+Vision+Dev;Offline-First+%E2%80%A2+Local+LLM+%E2%80%A2+Zero+Cloud" />
 </a>
 
 <br/><br/>
