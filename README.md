@@ -9,7 +9,7 @@
 
 <br/>
 
-# 𝕬𝖓𝖘𝖍 ♤
+# 𝕬𝖈𝖊 ♤
 
 <a href="https://github.com/ansh2222949">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=480&height=40&lines=BANKAI+%E2%80%A2+Getsuga+Tensh%C5%8D+%F0%9F%97%A1%EF%B8%8F" />
@@ -197,32 +197,11 @@ const ansh = {
 
 ## <img src="./assets/icon-gear.svg" width="20" /> &nbsp; NeonAI Flow
 
-<table>
-<tr>
-<td align="center" valign="middle">
+<img src="./assets/flow-diagram.svg" width="500" />
 
-```
-  Input → Route ─┬─ Tool  → ⚡ Instant
-                 │
-                 ├─ Web   → 🌐 Search+LLM
-                 │
-                 ├─ LLM   → 🧠 Waterfall
-                 │              │
-                 │         Confidence?
-                 │          ├ ✅ → Out
-                 │          └ ❌ → Retry
-                 │
-                 └─ Cmd   → 🔊 Execute
-```
+<br/>
 
-</td>
-<td width="200" align="center" valign="middle">
-
-<img src="./assets/pochita.png" width="150" />
-
-</td>
-</tr>
-</table>
+<img src="./assets/pochita.png" width="100" />
 
 </div>
 
