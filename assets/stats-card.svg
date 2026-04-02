@@ -44,7 +44,7 @@
   <!-- Title bar -->
   <rect x="1" y="1" width="498" height="44" rx="12" fill="#161b22"/>
   <rect x="1" y="30" width="498" height="15" fill="#161b22"/>
-  <text x="250" y="28" text-anchor="middle" fill="#c9d1d9" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="600">𝕬𝖈𝖊 ♤  ·  LV 25</text>
+  <text x="250" y="28" text-anchor="middle" fill="#c9d1d9" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="600">𝕬𝖓𝖘𝖍 ♤  ·  LV 25</text>
   <text x="470" y="28" text-anchor="end" fill="#e8375a" font-family="monospace" font-size="11">CLASS: Architect</text>
   
   <!-- Stat rows -->

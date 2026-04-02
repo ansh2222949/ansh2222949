@@ -9,7 +9,7 @@
 
 <br/>
 
-# 𝕬𝖈𝖊 ♤
+# 𝕬𝖓𝖘𝖍 ♤
 
 <a href="https://github.com/ansh2222949">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=480&height=40&lines=BANKAI+%E2%80%A2+Getsuga+Tensh%C5%8D+%F0%9F%97%A1%EF%B8%8F" />
@@ -44,8 +44,8 @@
 ## <img src="./assets/icon-brain.svg" width="20" /> &nbsp; About
 
 ```js
-const ace = {
-    name:       "𝕬𝖈𝖊 ♤",
+const ansh = {
+    name:       "𝕬𝖓𝖘𝖍 ♤",
     title:      "AI Systems Architect",
     location:   "localhost:5000",
     focus:      ["AI Routing", "Voice AI",
@@ -57,7 +57,7 @@ const ace = {
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="./assets/anime1.gif" width="260" />
+<img src="./assets/anime1.gif" alt="" width="260" />
 
 </td>
 </tr>
@@ -202,17 +202,17 @@ const ace = {
 <td align="center" valign="middle">
 
 ```
-  Input ─→ Route ─┬─→ Tool Call ──→ ⚡ Instant Response
-                   │
-                   ├─→ Web Search ─→ 🌐 Search + LLM
-                   │
-                   ├─→ LLM Mode ──→ 🧠 Waterfall Engine
-                   │                       │
-                   │                  Confidence Gate
-                   │                   ├─ ✅ Pass → Out
-                   │                   └─ ❌ Fail → Retry
-                   │
-                   └─→ System CMD ─→ 🔊 OS Execute
+  Input → Route ─┬─ Tool  → ⚡ Instant
+                 │
+                 ├─ Web   → 🌐 Search+LLM
+                 │
+                 ├─ LLM   → 🧠 Waterfall
+                 │              │
+                 │         Confidence?
+                 │          ├ ✅ → Out
+                 │          └ ❌ → Retry
+                 │
+                 └─ Cmd   → 🔊 Execute
 ```
 
 </td>
