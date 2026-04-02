@@ -41,19 +41,9 @@
 
 <div align="center">
 <img src="./assets/anime1.gif" alt="" width="400" />
+<br/><br/>
+<img src="./assets/about-card.svg" width="550" />
 </div>
-
-<br/>
-
-```js
-const ansh = {
-    name:       "𝕬𝖓𝖘𝖍 ♤",
-    title:      "AI Systems Architect",
-    location:   "localhost:5000",
-    focus:      ["AI Routing", "Voice AI", "Computer Vision", "Local ML"],
-    philosophy: "System > Model. Always."
-};
-```
 
 ---
 
