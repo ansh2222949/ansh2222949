@@ -9,7 +9,7 @@
 <img src="./assets/neon-command-deck.svg" width="100%" alt="Animated neon command deck panel" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&repeat=true&width=800&lines=Building+intelligence+from+scratch;Whisper+%E2%86%92+Router+%E2%86%92+LLM+%E2%86%92+GPT-SoVITS;System+%3E+Model.+Always.;Cute+surface.+Serious+systems.;Kitsune+guarded.+Neon+coded." alt="Typing intro banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00FFC8&center=true&vCenter=true&repeat=true&width=820&lines=Building+intelligence+from+scratch;Whisper+%E2%86%92+Router+%E2%86%92+LLM+%E2%86%92+GPT-SoVITS;System+%3E+Model.+Always.;Cute+surface.+Serious+systems.;Kitsune+guarded.+Neon+coded." alt="Typing intro banner" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="46%" valign="top">
+<td width="50%" valign="top">
 
 <h2><code>&gt; whoami</code></h2>
 
@@ -48,20 +48,50 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 </ul>
 
 </td>
-<td width="27%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="./assets/kitsune-guardian.png" width="92%" alt="Cute kitsune guardian mascot" />
+<h2><code>&gt; command notes</code></h2>
 
-<code>kitsune.guard</code><br/>
-<sub>Katana-ready spirit for stealth mode.</sub>
+<ul>
+  <li><strong>Style:</strong> anime-core energy with engineering discipline</li>
+  <li><strong>Stack:</strong> local-first pipelines, intent routing, tool calling</li>
+  <li><strong>Preference:</strong> systems that decide, models that support</li>
+  <li><strong>UI taste:</strong> glass, glow, motion, and strong visual identity</li>
+</ul>
+
+<h2><code>&gt; visual fix</code></h2>
+
+<p>The command deck now uses shorter stacked labels and mixed font treatment so the subtitle no longer looks clipped on GitHub.</p>
 
 </td>
-<td width="27%" valign="top" align="center">
+</tr>
+</table>
+
+---
+
+## `> familiars`
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="./assets/kitsune-guardian.png" width="92%" alt="Standing kitsune guardian mascot" />
+
+### `kitsune.guard`\n<sub>Stealth-mode protector with katana energy.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="./assets/kitsune-idle.png" width="92%" alt="Sitting kitsune idle mascot" />
+
+### `kitsune.idle`\n<sub>Calm mode. Watching the system hum in peace.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
 
 <img src="./assets/neon-dragon-cat.svg" width="100%" alt="Animated neon dragon cat mascot" />
 
-<code>dragon.cat.exe</code><br/>
-<sub>Guardian mode enabled for late-night builds.</sub>
+### `dragon.cat.exe`\n<sub>Late-night build guardian for neon sessions.</sub>
 
 </td>
 </tr>
@@ -131,7 +161,7 @@ philosophy: "The system decides the path. The LLM only generates when needed."</
 | Input Layer        | Text, voice, gesture                            |
 | Decision Layer     | Intent scoring, semantic routing, tool gating   |
 | Output Layer       | Actions, answers, TTS, visual feedback          |
-| Familiar Layer     | Kitsune guard + dragon cat keep the vibe alive  |
+| Familiar Layer     | Kitsune guard + kitsune idle + dragon cat       |
 +-------------------+--------------------------------------------------+
 ```
 
@@ -269,3 +299,4 @@ flowchart LR
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d7e,40:0d1117,100:00ffc8&height=120&section=footer" />
+
