@@ -156,9 +156,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" width="100%" />
 </picture>
+
+> **Note:** *Run the [Generate Snake](../../actions/workflows/snake.yml) workflow to activate the snake animation.*
 
 </div>
 
