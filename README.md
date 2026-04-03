@@ -159,22 +159,6 @@
 <br/><br/>
 
 <a href="https://github.com/ansh2222949">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh2222949&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8375a&text_color=c9d1d9&icon_color=e8375a&ring_color=e8375a" width="48%" />
-</a>
-<a href="https://github.com/ansh2222949">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh2222949&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8375a&text_color=c9d1d9" width="40%" />
-</a>
-
-</div>
-
-<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
-<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/ansh2222949">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh2222949&hide_border=true&background=0d1117&stroke=161b22&ring=e8375a&fire=e8375a&currStreakLabel=e8375a&sideLabels=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4b5563" width="55%" />
 </a>
 
