@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="20" viewBox="0 0 800 20">
+  <defs>
+    <style>
+      @keyframes pulseGlow { 0%,100%{opacity:0.3} 50%{opacity:1} }
+      @keyframes moveLight { 0%{transform:translateX(-200px)} 100%{transform:translateX(1000px)} }
+      .glow-line { animation: pulseGlow 3s ease-in-out infinite; }
+      .light-sweep { animation: moveLight 4s ease-in-out infinite; }
+    </style>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#e8375a" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#e8375a" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#e8375a" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowSpot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e8375a" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#e8375a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweepGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e8375a" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#e8375a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Main glow line -->
+  <rect class="glow-line" x="0" y="9" width="800" height="2" rx="1" fill="url(#lineGrad)"/>
+  
+  <!-- Center glow spot -->
+  <ellipse class="glow-line" cx="400" cy="10" rx="60" ry="8" fill="url(#glowSpot)" opacity="0.4"/>
+  
+  <!-- Moving light sweep -->
+  <rect class="light-sweep" x="-200" y="8" width="200" height="4" rx="2" fill="url(#sweepGrad)" opacity="0.5"/>
+</svg>

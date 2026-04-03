@@ -33,7 +33,8 @@
 
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
@@ -45,7 +46,8 @@
 <img src="./assets/about-card.svg" width="550" />
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ RPG STATS ═══════════════════ -->
 
@@ -57,7 +59,8 @@
 
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ TECH ═══════════════════ -->
 
@@ -104,14 +107,16 @@
 </tr>
 </table>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ ANIME DIVIDER ═══════════════════ -->
 <div align="center">
   <img src="./assets/anime2.gif" width="480" />
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
@@ -123,7 +128,8 @@
 </a>
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ ARCHITECTURE ═══════════════════ -->
 
@@ -139,7 +145,25 @@
 
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+
+<div align="center">
+
+## 🐍 &nbsp; Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
@@ -157,14 +181,16 @@
 
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ ANIME DIVIDER ═══════════════════ -->
 <div align="center">
   <img src="./assets/anime3.gif" width="480" />
 </div>
 
----
+<!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
+<div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
