@@ -148,18 +148,27 @@
 <!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
 <div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUTIONS ═══════════════════ -->
 
 <div align="center">
 
 ## 🐍 &nbsp; Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" width="100%" />
-</picture>
+<a href="https://github.com/ansh2222949">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansh2222949&theme=github_dark" width="90%" />
+</a>
 
-> **Note:** *Run the [Generate Snake](../../actions/workflows/snake.yml) workflow to activate the snake animation.*
+<br/>
+
+<a href="https://github.com/ansh2222949">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansh2222949&theme=github_dark" width="32%" />
+</a>
+<a href="https://github.com/ansh2222949">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansh2222949&theme=github_dark" width="32%" />
+</a>
+<a href="https://github.com/ansh2222949">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansh2222949&theme=github_dark&utcOffset=5.5" width="32%" />
+</a>
 
 </div>
 
