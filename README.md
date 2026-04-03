@@ -152,22 +152,17 @@
 
 <div align="center">
 
-## 🐍 &nbsp; Contributions
+## <img src="./assets/icon-snake.svg" width="22" /> &nbsp; Contributions
+
+<img src="./assets/snake-grid.svg" width="600" />
+
+<br/><br/>
 
 <a href="https://github.com/ansh2222949">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansh2222949&theme=github_dark" width="90%" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ansh2222949">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansh2222949&theme=github_dark" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ansh2222949&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8375a&text_color=c9d1d9&icon_color=e8375a&ring_color=e8375a" width="48%" />
 </a>
 <a href="https://github.com/ansh2222949">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansh2222949&theme=github_dark" width="32%" />
-</a>
-<a href="https://github.com/ansh2222949">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansh2222949&theme=github_dark&utcOffset=5.5" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh2222949&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8375a&text_color=c9d1d9" width="40%" />
 </a>
 
 </div>
