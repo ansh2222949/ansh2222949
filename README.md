@@ -154,7 +154,10 @@
 
 ## <img src="./assets/icon-snake.svg" width="22" /> &nbsp; Contributions
 
-<img src="./assets/snake-grid.svg" width="600" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
