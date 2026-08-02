@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════ HEADER WALLPAPER BANNER ═══════════════════ -->
 <a href="https://github.com/ansh2222949">
-  <img width="100%" style="border-radius:14px;" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/main/assets/header-wallpaper.jpg" alt="Ansh Custom Wallpaper Banner" />
+  <img width="100%" style="border-radius:14px; box-shadow: 0 4px 20px rgba(0,0,0,0.06);" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/main/assets/header-wallpaper.jpg" alt="Ansh Custom Wallpaper Banner" />
 </a>
 
 <br/><br/>
@@ -20,20 +20,20 @@
 </a>
 <br/>
 <a href="https://github.com/ansh2222949">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&repeat=true&width=460&height=25&lines=AI+Architect+%E2%80%A2+Voice+Engineer+%E2%80%A2+System+Dev;Offline-First+%E2%80%A2+Local+LLM+%E2%80%A2+Multi-Agent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&repeat=true&width=460&height=25&lines=AI+Architect+%E2%80%A2+Voice+Engineer+%E2%80%A2+System+Dev;Offline-First+%E2%80%A2+Local+LLM+%E2%80%A2+Multi-Agent+Systems" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ansh2222949?tab=followers">
-  <img src="https://img.shields.io/github/followers/ansh2222949?style=flat-square&color=161b22&labelColor=0d1117&logo=github&logoColor=e8375a" />
+  <img src="https://img.shields.io/github/followers/ansh2222949?style=flat-square&color=ffffff&labelColor=f8fafc&logo=github&logoColor=e8375a" />
 </a>
 &nbsp;
 <a href="https://github.com/ansh2222949?tab=stars">
-  <img src="https://img.shields.io/github/stars/ansh2222949?style=flat-square&color=161b22&labelColor=0d1117&logo=github&logoColor=e8375a" />
+  <img src="https://img.shields.io/github/stars/ansh2222949?style=flat-square&color=ffffff&labelColor=f8fafc&logo=github&logoColor=e8375a" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ansh2222949&style=flat-square&color=161b22&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=ansh2222949&style=flat-square&color=ffffff&labelColor=f8fafc" />
 
 </div>
 
@@ -76,32 +76,32 @@
 
 #### Core & AI Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Google_ADK-161b22?style=flat-square&logo=google&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Whisper-161b22?style=flat-square&logo=openai&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Google_ADK-ffffff?style=flat-square&logo=google&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=flat-square&logo=tensorflow&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Whisper-ffffff?style=flat-square&logo=openai&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Ollama-ffffff?style=flat-square&logo=ollama&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/OpenCV-ffffff?style=flat-square&logo=opencv&logoColor=e8375a" />
 </p>
 
 #### Web & Desktop Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Electron-161b22?style=flat-square&logo=electron&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Electron-ffffff?style=flat-square&logo=electron&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Vite-ffffff?style=flat-square&logo=vite&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Flask-ffffff?style=flat-square&logo=flask&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=html5&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=css3&logoColor=e8375a" />
 </p>
 
 #### Environment & Hardware
 <p>
-  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visual-studio-code&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/NVIDIA_3050-161b22?style=flat-square&logo=nvidia&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Windows_11-161b22?style=flat-square&logo=windows11&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/VS_Code-ffffff?style=flat-square&logo=visual-studio-code&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/NVIDIA_3050-ffffff?style=flat-square&logo=nvidia&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Windows_11-ffffff?style=flat-square&logo=windows11&logoColor=e8375a" />
 </p>
 
 </td>
@@ -135,11 +135,11 @@
 <br/><br/>
 
 <a href="https://github.com/ansh2222949/aether-browser">
-  <img src="https://img.shields.io/badge/🪐_Aether_Browser-161b22?style=for-the-badge&logo=electron&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/🪐_Aether_Browser-e8375a?style=for-the-badge&logo=electron&logoColor=ffffff" />
 </a>
 &nbsp;
 <a href="https://github.com/ansh2222949?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-161b22?style=for-the-badge&logo=github&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/View_All_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 </div>
 
@@ -170,20 +170,20 @@
 ## <img src="./assets/icon-snake.svg" width="22" /> &nbsp; Contributions & Metrics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-light.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
 <a href="https://github.com/ansh2222949">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh2222949&hide_border=true&background=0d1117&stroke=161b22&ring=e8375a&fire=e8375a&currStreakLabel=e8375a&sideLabels=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4b5563" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh2222949&hide_border=false&border_color=e2e8f0&background=ffffff&stroke=e2e8f0&ring=e8375a&fire=e8375a&currStreakLabel=e8375a&sideLabels=64748b&currStreakNum=0f172a&sideNums=0f172a&dates=94a3b8" width="55%" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ansh2222949">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh2222949&bg_color=0d1117&color=e8375a&line=e8375a&point=c9d1d9&area=true&area_color=e8375a10&hide_border=true&custom_title=" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh2222949&bg_color=ffffff&color=e8375a&line=e8375a&point=0f172a&area=true&area_color=e8375a15&hide_border=false&border_color=e2e8f0&custom_title=" width="90%" />
 </a>
 
 </div>
@@ -214,11 +214,11 @@
 <br/>
 
 <a href="https://github.com/ansh2222949">
-  <img src="https://img.shields.io/badge/follow-e8375a?style=for-the-badge&logo=github&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/follow-e8375a?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 &nbsp;
 <a href="https://github.com/ansh2222949?tab=repositories">
-  <img src="https://img.shields.io/badge/repos-161b22?style=for-the-badge&logo=github&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/repos-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 <br/><br/>
@@ -227,4 +227,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0510,50:2d0a1e,75:1a0510,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,25:fff5f7,50:fee2e2,75:fff5f7,100:ffffff&height=100&section=footer" />
