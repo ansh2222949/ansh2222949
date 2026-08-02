@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-<img width="100%" src="./assets/banner.svg" alt="Ansh Wallpaper Background Banner" />
+<!-- ═══════════════════ HEADER WALLPAPER BANNER ═══════════════════ -->
+<a href="https://github.com/ansh2222949">
+  <img width="100%" style="border-radius:14px;" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/main/assets/header-wallpaper.jpg" alt="Ansh Custom Wallpaper Banner" />
+</a>
 
 <br/><br/>
 
