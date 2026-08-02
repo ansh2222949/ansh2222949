@@ -1,11 +1,19 @@
 <div align="center">
 
-<!-- ═══════════════════ HERO BANNER WITH OVERLAID PHOTO & NAME ═══════════════════ -->
+<!-- ═══════════════════ HEADER WALLPAPER BANNER ═══════════════════ -->
 <a href="https://github.com/ansh2222949">
-  <img width="100%" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/main/assets/banner.svg" alt="Ansh Custom Wallpaper Banner with Photo and Name" />
+  <img width="100%" style="border-radius:14px;" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/main/assets/header-wallpaper.jpg" alt="Ansh Custom Wallpaper Banner" />
 </a>
 
 <br/><br/>
+
+<!-- ═══════════════════ HERO ═══════════════════ -->
+
+<img src="./assets/ace-rounded.png" width="160" alt="Ace Profile Avatar" />
+
+<br/>
+
+# 𝕬𝖓𝖘𝖍 ♤
 
 <a href="https://github.com/ansh2222949">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=520&height=40&lines=BANKAI+%E2%80%A2+Getsuga+Tensh%C5%8D+%F0%9F%97%A1%EF%B8%8F;Building+Aether+Browser+%E2%80%A2+AI+Sidecar+Engine+%F0%9F%AA%90;Google+ADK+%E2%80%A2+Autonomous+Agent+Systems+%F0%9F%A4%96" />
