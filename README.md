@@ -1,6 +1,8 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+<img width="100%" style="border-radius:12px;" src="./assets/header-wallpaper.jpg" alt="Header Wallpaper Banner" />
+<br/><br/>
 <img width="100%" src="./assets/banner.svg" alt="Ansh Header Banner" />
 
 <br/><br/>
