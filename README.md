@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER WALLPAPER BANNER ═══════════════════ -->
-<a href="https://github.com/ansh2222949">
-  <img width="100%" style="border-radius:14px; box-shadow: 0 4px 20px rgba(0,0,0,0.06);" src="https://raw.githubusercontent.com/ansh2222949/ansh2222949/main/assets/header-wallpaper.jpg" alt="Ansh Custom Wallpaper Banner" />
-</a>
-
-<br/><br/>
-
 <!-- ═══════════════════ HERO ═══════════════════ -->
 
 <img src="./assets/ace-rounded.png" width="160" alt="Ace Profile Avatar" />
