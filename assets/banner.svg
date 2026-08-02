@@ -1,67 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="340" viewBox="0 0 1000 340">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b0d13"/>
-      <stop offset="40%" stop-color="#160814"/>
-      <stop offset="70%" stop-color="#1f091c"/>
-      <stop offset="100%" stop-color="#0b0d13"/>
+    <!-- Dark gradient overlay for clear text contrast over wallpaper -->
+    <linearGradient id="overlayGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(13, 17, 23, 0.45)"/>
+      <stop offset="50%" stop-color="rgba(13, 17, 23, 0.65)"/>
+      <stop offset="100%" stop-color="rgba(13, 17, 23, 0.9)"/>
     </linearGradient>
 
-    <linearGradient id="accentGlow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#e8375a"/>
-      <stop offset="50%" stop-color="#ff5277"/>
-      <stop offset="100%" stop-color="#800020"/>
-    </linearGradient>
-
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(232, 55, 90, 0.07)" stroke-width="1"/>
-    </pattern>
-
+    <!-- Neon Glow Filter -->
     <filter id="glowEffect" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feGaussianBlur stdDeviation="8" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
+
+    <clipPath id="rounded">
+      <rect width="1000" height="340" rx="16"/>
+    </clipPath>
   </defs>
 
-  <!-- Background Base -->
-  <rect width="1000" height="280" rx="16" fill="url(#bgGrad)"/>
-  <rect width="1000" height="280" rx="16" fill="url(#grid)"/>
-
-  <!-- Top & Bottom Glowing Lines -->
-  <rect x="0" y="0" width="1000" height="3" fill="url(#accentGlow)" filter="url(#glowEffect)"/>
-  <rect x="0" y="277" width="1000" height="3" fill="url(#accentGlow)" filter="url(#glowEffect)"/>
-
-  <!-- Subtle Cyberpunk Corner Accents -->
-  <path d="M 20 50 L 20 20 L 50 20" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.6"/>
-  <path d="M 980 50 L 980 20 L 950 20" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.6"/>
-  <path d="M 20 230 L 20 260 L 50 260" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.6"/>
-  <path d="M 980 230 L 980 260 L 950 260" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.6"/>
-
-  <!-- Main Hero Title -->
-  <g text-anchor="middle">
-    <!-- Subtitle Badge -->
-    <rect x="360" y="42" width="280" height="28" rx="14" fill="rgba(232, 55, 90, 0.12)" stroke="rgba(232, 55, 90, 0.3)" stroke-width="1"/>
-    <text x="500" y="61" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" letter-spacing="2">SYSTEM ARCHITECT & AI ENGINEER</text>
-
-    <!-- Main Title Text -->
-    <text x="500" y="125" fill="#f3f3f5" font-family="'JetBrains Mono', monospace" font-size="46" font-weight="900" letter-spacing="4" filter="url(#glowEffect)">𝕬𝕹𝖂𝕳 ♤</text>
+  <g clip-path="url(#rounded)">
+    <!-- 1. Background Wallpaper Image -->
+    <image href="./assets/header-wallpaper.jpg" width="1000" height="340" preserveAspectRatio="xMidYMid slice" />
     
-    <!-- Tagline -->
-    <text x="500" y="165" fill="#9ca3af" font-family="'Inter', sans-serif" font-size="15" font-weight="500">Autonomous AI Systems • Voice Engineering • Desktop Applications</text>
+    <!-- 2. Dark Overlay for text legibility -->
+    <rect width="1000" height="340" fill="url(#overlayGrad)"/>
 
-    <!-- Tech Badges inside Header Banner -->
-    <g transform="translate(230, 200)">
-      <!-- Badge 1: Aether Browser -->
-      <rect x="0" y="0" width="160" height="32" rx="8" fill="rgba(22, 27, 34, 0.85)" stroke="rgba(232, 55, 90, 0.4)" stroke-width="1"/>
-      <text x="80" y="20" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">🪐 Aether Browser</text>
+    <!-- 3. Glowing Cyberpunk Outline -->
+    <rect width="1000" height="340" fill="none" stroke="rgba(232, 55, 90, 0.6)" stroke-width="3"/>
 
-      <!-- Badge 2: Google ADK -->
-      <rect x="180" y="0" width="160" height="32" rx="8" fill="rgba(22, 27, 34, 0.85)" stroke="rgba(232, 55, 90, 0.4)" stroke-width="1"/>
-      <text x="260" y="20" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">🤖 Google ADK</text>
+    <!-- 4. Corner Accent Markings -->
+    <path d="M 20 50 L 20 20 L 50 20" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.8"/>
+    <path d="M 980 50 L 980 20 L 950 20" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.8"/>
+    <path d="M 20 290 L 20 320 L 50 320" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.8"/>
+    <path d="M 980 290 L 980 320 L 950 320" fill="none" stroke="#e8375a" stroke-width="2.5" opacity="0.8"/>
 
-      <!-- Badge 3: NeonAI -->
-      <rect x="360" y="0" width="160" height="32" rx="8" fill="rgba(22, 27, 34, 0.85)" stroke="rgba(232, 55, 90, 0.4)" stroke-width="1"/>
-      <text x="440" y="20" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">⚡ NeonAI Core</text>
+    <!-- 5. Overlaid Text Elements -->
+    <g text-anchor="middle">
+      <!-- Top Pill Badge -->
+      <rect x="350" y="45" width="300" height="30" rx="15" fill="rgba(13, 17, 23, 0.85)" stroke="#e8375a" stroke-width="1.2"/>
+      <text x="500" y="65" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" letter-spacing="2">AI ARCHITECT &amp; SYSTEM ENGINEER</text>
+
+      <!-- Main Name -->
+      <text x="500" y="155" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="54" font-weight="900" letter-spacing="5" filter="url(#glowEffect)">𝕬𝕹𝖂𝕳 ♤</text>
+      
+      <!-- Subtitle -->
+      <text x="500" y="200" fill="#f1f5f9" font-family="'Inter', sans-serif" font-size="16" font-weight="600">Autonomous AI Systems • Voice Engineering • Desktop Applications</text>
+
+      <!-- Tech Badges -->
+      <g transform="translate(230, 245)">
+        <rect x="0" y="0" width="160" height="34" rx="8" fill="rgba(13, 17, 23, 0.85)" stroke="#e8375a" stroke-width="1.2"/>
+        <text x="80" y="22" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">🪐 Aether Browser</text>
+
+        <rect x="180" y="0" width="160" height="34" rx="8" fill="rgba(13, 17, 23, 0.85)" stroke="#e8375a" stroke-width="1.2"/>
+        <text x="260" y="22" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">🤖 Google ADK</text>
+
+        <rect x="360" y="0" width="160" height="34" rx="8" fill="rgba(13, 17, 23, 0.85)" stroke="#e8375a" stroke-width="1.2"/>
+        <text x="440" y="22" fill="#e8375a" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">⚡ NeonAI Core</text>
+      </g>
     </g>
   </g>
 </svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-<img width="100%" style="border-radius:12px;" src="./assets/header-wallpaper.jpg" alt="Ansh Custom Wallpaper Banner" />
+<img width="100%" src="./assets/banner.svg" alt="Ansh Wallpaper Background Banner" />
 
 <br/><br/>
 
