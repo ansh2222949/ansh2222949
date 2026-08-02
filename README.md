@@ -1,22 +1,24 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0510,50:2d0a1e,75:1a0510,100:0d1117&height=180&section=header&text=&fontSize=1" />
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+<img width="100%" src="./assets/banner.svg" alt="Ansh Header Banner" />
+
+<br/><br/>
 
 <!-- ═══════════════════ HERO ═══════════════════ -->
 
-<img src="./assets/ace-rounded.png" width="160" />
+<img src="./assets/ace-rounded.png" width="160" alt="Ace Profile Avatar" />
 
 <br/>
 
 # 𝕬𝖓𝖘𝖍 ♤
 
 <a href="https://github.com/ansh2222949">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=480&height=40&lines=BANKAI+%E2%80%A2+Getsuga+Tensh%C5%8D+%F0%9F%97%A1%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=E8375A&center=true&vCenter=true&repeat=true&width=520&height=40&lines=BANKAI+%E2%80%A2+Getsuga+Tensh%C5%8D+%F0%9F%97%A1%EF%B8%8F;Building+Aether+Browser+%E2%80%A2+AI+Sidecar+Engine+%F0%9F%AA%90;Google+ADK+%E2%80%A2+Autonomous+Agent+Systems+%F0%9F%A4%96" />
 </a>
 <br/>
 <a href="https://github.com/ansh2222949">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&repeat=true&width=420&height=25&lines=AI+Architect+%E2%80%A2+Voice+Engineer+%E2%80%A2+Vision+Dev;Offline-First+%E2%80%A2+Local+LLM+%E2%80%A2+Zero+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&repeat=true&width=460&height=25&lines=AI+Architect+%E2%80%A2+Voice+Engineer+%E2%80%A2+System+Dev;Offline-First+%E2%80%A2+Local+LLM+%E2%80%A2+Multi-Agent+Systems" />
 </a>
 
 <br/><br/>
@@ -38,7 +40,7 @@
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-## <img src="./assets/icon-brain.svg" width="20" /> &nbsp; About
+## <img src="./assets/icon-brain.svg" width="20" /> &nbsp; About Me
 
 <div align="center">
 <img src="./assets/anime1.gif" alt="" width="400" />
@@ -70,38 +72,40 @@
 
 ## <img src="./assets/icon-katana.svg" width="20" /> &nbsp; Arsenal
 
-#### Core
+#### Core & AI Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Google_ADK-161b22?style=flat-square&logo=google&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/Whisper-161b22?style=flat-square&logo=openai&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/ChromaDB-161b22?style=flat-square&logoColor=e8375a" />
 </p>
 
-#### Stack
+#### Web & Desktop Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Electron-161b22?style=flat-square&logo=electron&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=html5&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=e8375a" />
 </p>
 
-#### Env
+#### Environment & Hardware
 <p>
   <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visual-studio-code&logoColor=e8375a" />
   <img src="https://img.shields.io/badge/NVIDIA_3050-161b22?style=flat-square&logo=nvidia&logoColor=e8375a" />
-  <img src="https://img.shields.io/badge/Windows-161b22?style=flat-square&logo=windows11&logoColor=e8375a" />
+  <img src="https://img.shields.io/badge/Windows_11-161b22?style=flat-square&logo=windows11&logoColor=e8375a" />
 </p>
 
 </td>
 <td width="35%" align="center" valign="center">
 
-<img src="./assets/kitsune-warrior.png" width="180" />
+<img src="./assets/kitsune-warrior.png" width="180" alt="Kitsune Warrior" />
 
 </td>
 </tr>
@@ -118,13 +122,22 @@
 <!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
 <div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+<!-- ═══════════════════ CREATIONS ═══════════════════ -->
 
-## <img src="./assets/icon-scroll.svg" width="20" /> &nbsp; Creations
+## <img src="./assets/icon-scroll.svg" width="20" /> &nbsp; Featured Creations
 
 <div align="center">
+<a href="https://github.com/ansh2222949/aether-browser">
+  <img src="./assets/projects-card.svg" width="600" alt="Featured Projects" />
+</a>
+<br/><br/>
+
+<a href="https://github.com/ansh2222949/aether-browser">
+  <img src="https://img.shields.io/badge/🪐_Aether_Browser-161b22?style=for-the-badge&logo=electron&logoColor=e8375a" />
+</a>
+&nbsp;
 <a href="https://github.com/ansh2222949?tab=repositories">
-<img src="./assets/projects-card.svg" width="600" />
+  <img src="https://img.shields.io/badge/View_All_Repositories-161b22?style=for-the-badge&logo=github&logoColor=e8375a" />
 </a>
 </div>
 
@@ -135,7 +148,7 @@
 
 <div align="center">
 
-## <img src="./assets/icon-gear.svg" width="20" /> &nbsp; NeonAI Flow
+## <img src="./assets/icon-gear.svg" width="20" /> &nbsp; NeonAI Architecture
 
 <img src="./assets/flow-diagram.svg" width="600" />
 
@@ -148,11 +161,11 @@
 <!-- ═══════════════════ GLOW DIVIDER ═══════════════════ -->
 <div align="center"><img src="./assets/glow-divider.svg" width="100%" /></div>
 
-<!-- ═══════════════════ CONTRIBUTIONS ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUTIONS & STATS ═══════════════════ -->
 
 <div align="center">
 
-## <img src="./assets/icon-snake.svg" width="22" /> &nbsp; Contributions
+## <img src="./assets/icon-snake.svg" width="22" /> &nbsp; Contributions & Metrics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh2222949/ansh2222949/output/snake-dark.svg" />
