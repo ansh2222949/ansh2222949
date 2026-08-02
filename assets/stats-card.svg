@@ -1,5 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="340" viewBox="0 0 500 340">
   <defs>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8375a"/>
+      <stop offset="50%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#e8375a"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+
     <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#e8375a"/>
       <stop offset="85%" style="stop-color:#e8375a"/>
@@ -38,13 +48,12 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
-  <rect width="500" height="340" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <!-- Background Card with Gradient Border -->
+  <rect x="2" y="2" width="496" height="336" rx="14" fill="#ffffff" stroke="url(#cardBorder)" stroke-width="2.5" filter="url(#shadow)"/>
   
   <!-- Title bar -->
-  <rect x="1" y="1" width="498" height="44" rx="12" fill="#f8fafc"/>
-  <rect x="1" y="30" width="498" height="15" fill="#f8fafc"/>
-  <line x1="0" y1="44" x2="500" y2="44" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M 4 14 A 12 12 0 0 1 16 4 L 484 4 A 12 12 0 0 1 496 14 L 496 44 L 4 44 Z" fill="#f8fafc"/>
+  <line x1="2" y1="44" x2="498" y2="44" stroke="#e2e8f0" stroke-width="1.5"/>
   <text x="250" y="28" text-anchor="middle" fill="#0f172a" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700">𝕬𝖓𝖘𝖍 ♤  ·  LV 25</text>
   <text x="470" y="28" text-anchor="end" fill="#e8375a" font-family="monospace" font-size="11" font-weight="700">CLASS: Architect</text>
   
@@ -80,7 +89,7 @@
   <text x="435" y="258" fill="#0f172a" font-family="monospace" font-size="12" font-weight="700">85</text>
   
   <!-- Divider -->
-  <line x1="20" y1="280" x2="480" y2="280" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="20" y1="280" x2="480" y2="280" stroke="#e2e8f0" stroke-width="1.5"/>
   
   <!-- Footer info -->
   <text x="30" y="305" fill="#94a3b8" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="600">ELEMENT</text>

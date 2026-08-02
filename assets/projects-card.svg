@@ -1,5 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
   <defs>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8375a"/>
+      <stop offset="50%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#e8375a"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+
     <style>
       @keyframes glow1 { 0%,100%{opacity:0.4} 50%{opacity:1} }
       @keyframes slideUp1 { 0%{opacity:0;transform:translateY(10px)} 100%{opacity:1;transform:translateY(0)} }
@@ -18,12 +28,12 @@
     </linearGradient>
   </defs>
   
-  <!-- Background -->
-  <rect width="600" height="320" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <!-- Background Card with Gradient Border -->
+  <rect x="2" y="2" width="596" height="316" rx="14" fill="#ffffff" stroke="url(#cardBorder)" stroke-width="2.5" filter="url(#shadow)"/>
   
   <!-- ═══ Card 1: Aether Browser ═══ -->
   <g class="c1">
-    <rect x="15" y="15" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="15" y="15" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2"/>
     <rect x="15" y="15" width="4" height="130" rx="2" fill="url(#accent)" class="glow"/>
     <text x="35" y="44" fill="#e8375a" font-family="monospace" font-size="16">🪐</text>
     <text x="55" y="44" fill="#0f172a" font-family="monospace" font-size="14" font-weight="bold">Aether Browser</text>
@@ -43,7 +53,7 @@
 
   <!-- ═══ Card 2: NeonAI ═══ -->
   <g class="c2">
-    <rect x="310" y="15" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="310" y="15" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2"/>
     <rect x="310" y="15" width="4" height="130" rx="2" fill="url(#accent)" class="glow"/>
     <text x="330" y="44" fill="#e8375a" font-family="monospace" font-size="16">⚡</text>
     <text x="350" y="44" fill="#0f172a" font-family="monospace" font-size="14" font-weight="bold">NeonAI</text>
@@ -61,7 +71,7 @@
 
   <!-- ═══ Card 3: Google ADK Systems ═══ -->
   <g class="c3">
-    <rect x="15" y="165" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="15" y="165" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2"/>
     <rect x="15" y="165" width="4" height="130" rx="2" fill="url(#accent)" class="glow"/>
     <text x="35" y="194" fill="#e8375a" font-family="monospace" font-size="16">🤖</text>
     <text x="55" y="194" fill="#0f172a" font-family="monospace" font-size="14" font-weight="bold">Google ADK</text>
@@ -79,7 +89,7 @@
 
   <!-- ═══ Card 4: AI Mouse ═══ -->
   <g class="c4">
-    <rect x="310" y="165" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="310" y="165" width="275" height="130" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2"/>
     <rect x="310" y="165" width="4" height="130" rx="2" fill="url(#accent)" class="glow"/>
     <text x="330" y="194" fill="#e8375a" font-family="monospace" font-size="16">🖱️</text>
     <text x="355" y="194" fill="#0f172a" font-family="monospace" font-size="14" font-weight="bold">AI Mouse</text>

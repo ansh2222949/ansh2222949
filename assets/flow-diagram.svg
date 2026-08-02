@@ -1,10 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420">
-  <!-- Background -->
-  <rect width="600" height="420" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <defs>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8375a"/>
+      <stop offset="50%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#e8375a"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background Card with Gradient Border -->
+  <rect x="2" y="2" width="596" height="416" rx="14" fill="#ffffff" stroke="url(#cardBorder)" stroke-width="2.5" filter="url(#shadow)"/>
   
   <!-- Title -->
   <text x="300" y="28" text-anchor="middle" fill="#e8375a" font-family="monospace" font-size="13" font-weight="700">NeonAI  •  Request Flow</text>
-  <line x1="40" y1="38" x2="560" y2="38" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="40" y1="38" x2="560" y2="38" stroke="#e2e8f0" stroke-width="1.5"/>
 
   <!-- USER INPUT node -->
   <rect x="235" y="52" width="130" height="30" rx="15" fill="#f8fafc" stroke="#e8375a" stroke-width="1.5"/>
@@ -87,6 +99,6 @@
   <text x="385" y="386" text-anchor="middle" fill="#e8375a" font-family="monospace" font-size="7" font-weight="700">CONF GATE</text>
 
   <!-- Response bar at bottom -->
-  <line x1="40" y1="400" x2="560" y2="400" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="40" y1="400" x2="560" y2="400" stroke="#e2e8f0" stroke-width="1.5"/>
   <text x="300" y="414" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="9" font-weight="600">──── Frontend / Voice Response ────</text>
 </svg>
